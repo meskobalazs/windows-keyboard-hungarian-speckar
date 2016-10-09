@@ -1,6 +1,10 @@
-# Hungarian keyboard layout with special characters
+# Hungarian Keyboard Layout with Special Characters
 
 Special Hungarian keyboard layout with localizers in mind. Adds a few useful key combinations, similarly to common Linux distributions.
+
+## Layout Preview
+
+![Keyboard layout with AltGr](layoutAltGr.jpg)
 
 ## Installation
 
